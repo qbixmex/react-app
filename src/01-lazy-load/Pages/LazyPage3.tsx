@@ -2,6 +2,9 @@ export const LazyPage3 = () => {
   return (
     <div>
       <h1 className="display-1 cyan">Lazy Page 3</h1>
+      <div className="alert alert-info text-center fw-bolder">
+        This is loaded by Lazy Load
+      </div>
     </div>
   );
 };
