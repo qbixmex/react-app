@@ -29,7 +29,7 @@ html, body {
 }
 
 body {
-  margin: 1.25rem 0;
+  margin: 0;
 }
 
 code {
@@ -45,6 +45,7 @@ nav {
   text-align: center;
   width: 250px;
 }
+
 nav ul {
   align-items: center;
   display: flex;
